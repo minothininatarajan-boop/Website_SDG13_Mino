@@ -22,4 +22,4 @@ The Climate Action Hackathon 2025 landing page is designed to raise awareness ab
 #Github.com
 https://minothininatarajan-boop.github.io/Website_SDG13_Mino/
 
-   git clone https://github.com/yourusername/climate-action-hackathon-2025.git
+ 

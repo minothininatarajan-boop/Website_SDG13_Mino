@@ -1,4 +1,5 @@
-# Climate Action Hackathon 2025 - Landing Page
+Climate Action Hackathon 2025 - Landing Page
+
 
 ## Project Overview
 The Climate Action Hackathon 2025 landing page is designed to raise awareness about urban heat and flood resilience, aligning with SDG 13 (Climate Action). The website provides details about the event, the schedule, key speakers, and challenges. It serves as an informational hub for participants to stay updated.
@@ -16,17 +17,9 @@ The Climate Action Hackathon 2025 landing page is designed to raise awareness ab
 
 ## Technology Used
 - HTML5: For creating the structure and content of the landing page.
-- CSS3: For styling and layout design, using Flexbox for a responsive, mobile-first design.
-- JavaScript: For interactivity (optional depending on your requirements).
-  
-## Project Setup
+- CSS: For styling and layout design, using Flexbox for a responsive, mobile-first design.
 
-### Prerequisites
-To view or modify the project locally, you will need:
-- A text editor (e.g., Visual Studio Code, Sublime Text).
-- A browser to view the landing page (e.g., Google Chrome, Firefox).
-  
-### Running the Project Locally
-1. Clone the repository:
-   ```bash
+#Github.com
+https://minothininatarajan-boop.github.io/Website_SDG13_Mino/
+
    git clone https://github.com/yourusername/climate-action-hackathon-2025.git
